@@ -1,0 +1,676 @@
+{
+    "mvp":{
+        "jogador": "Enner Valencia",
+        "gols": 3
+    },
+    "teamsA":[
+        {
+            "name": "Holanda",
+            "flag": ":flag_nl:",
+            "p": 4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+        {
+            "name": "Equador",
+            "flag": ":flag_ec:",
+            "p": 4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+        {
+            "name": "Senegal",
+            "flag": ":flag_sn:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Qatar",
+            "flag": ":flag_qa:",
+            "p": 0,
+            "w": 0,
+            "e": 0,
+            "d": 2
+        }
+    ],
+    "teamsB":[
+        {
+            "name": "Inglaterra",
+            "flag": ":england:",
+            "p":4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+        {
+            "name": "Irã",
+            "flag": ":flag_ir:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Estados Unidos",
+            "flag": ":flag_us:",
+            "p": 2,
+            "w": 0,
+            "e": 2,
+            "d": 0
+        },
+        {
+            "name": "País de Gales",
+            "flag": ":wales:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        }
+    ],
+    "teamsC":[
+        {
+            "name": "Polônia",
+            "flag": ":flag_pl:",
+            "p": 4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+        {
+            "name": "Argentina",
+            "flag": ":flag_ar:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Arábia Saudita",
+            "flag": ":flag_sa:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "México",
+            "flag": ":flag_mx:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        }
+    ],
+    "teamsD":[
+        {
+            "name": "França",
+            "flag": ":flag_fr:",
+            "p": 6,
+            "w": 2,
+            "e": 0,
+            "d": 0
+        },
+        {
+            "name": "Austrália",
+            "flag": ":flag_au:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Dinamarca",
+            "flag": ":flag_dk:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        },
+        {
+            "name": "Tunísia",
+            "flag": ":flag_tn:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        }
+    ],
+    "teamsE":[
+        {
+            "name": "Espanha",
+            "flag": ":flag_ea:",
+            "p": 4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+       {
+            "name": "Japão",
+            "flag": ":flag_jp:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        }, 
+        {
+            "name": "Costa Rica",
+            "flag": ":flag_cr:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },        
+        {
+            "name": "Alemanha",
+            "flag": ":flag_de:",
+            "p": 0,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        }
+    ],
+    "teamsF":[        
+        {
+            "name": "Croácia",
+            "flag": ":flag_hr:",
+            "p": 4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+        {
+            "name": "Marrocos",
+            "flag": ":flag_ma:",
+            "p": 4,
+            "w": 1,
+            "e": 1,
+            "d": 0
+        },
+        {
+            "name": "Bélgica",
+            "flag": ":flag_be:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Canadá",
+            "flag": ":flag_ca:",
+            "p": 0,
+            "w": 0,
+            "e": 0,
+            "d": 2
+        }
+
+    ],
+    "teamsG":[
+        {
+            "name": "Brasil",
+            "flag": ":flag_br:",
+            "p": 6,
+            "w": 2,
+            "e": 0,
+            "d": 0
+        },
+        {
+            "name": "Suíça",
+            "flag": ":flag_ch:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Camarões",
+            "flag": ":flag_cm:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        },
+        {
+            "name": "Sérvia",
+            "flag": ":flag_rs:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        }
+    ],
+    "teamsH":[
+        {
+            "name": "Portugal",
+            "flag": ":flag_pt:",
+            "p": 6,
+            "w": 2,
+            "e": 0,
+            "d": 0
+        },
+        {
+            "name": "Gana",
+            "flag": ":flag_gh:",
+            "p": 3,
+            "w": 1,
+            "e": 0,
+            "d": 1
+        },
+        {
+            "name": "Coreia do Sul",
+            "flag": ":flag_kr:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        },
+        {
+            "name": "Uruguai",
+            "flag": ":flag_uy:",
+            "p": 1,
+            "w": 0,
+            "e": 1,
+            "d": 1
+        }
+    ],
+    "worldCup":{
+        "name": "Qatar",
+        "about": "Catar, ou Qatar, é um país localizado na Ásia Ocidental, na Península Arábica (península é uma extensão de terra cercada por água em quase todos os lados), e estende-se até o norte do Golfo Pérsico. O país é considerado um emirado, tendo seu território administrado por um membro da classe dominante, no caso um emir. É uma das nações mais ricas do mundo... Veja mais sobre Qatar em: https://brasilescola.uol.com.br/geografia/catar.htm",
+        "idiom": "Árabe"
+    },
+    "dateRound":{
+        "roundOne":{
+            "groupA":[
+                {
+                    "teamA": "Qatar",
+                    "goalA": "0️⃣",
+                    "teamB": "Equador",
+                    "goalB": "2️⃣",
+                    "date": "20/11/2022 - 13:00"
+                },
+                {
+                    "teamA": "Senegal",
+                    "goalA": "0️⃣",
+                    "teamB": "Holanda",
+                    "goalB": "2️⃣",
+                    "date": "21/11/2022 - 13:00"
+                }
+            ],
+            "groupB":[
+                {
+                    "teamA": "Inglaterra",
+                    "goalA": "6️⃣",
+                    "teamB": "Irã",
+                    "goalB": "2️⃣",
+                    "date": "21/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Estados Unidos",
+                    "goalA": "1️⃣",
+                    "teamB": "País de Gales",
+                    "goalB": "1️⃣",
+                    "date": "21/11/2022 - 16:00"
+                }
+            ],
+            "groupC":[
+                {
+                    "teamA": "Argentina",
+                    "goalA": "1️⃣",
+                    "teamB": "Arábia Saudita",
+                    "goalB": "2️⃣",
+                    "date": "22/11/2022 - 7:00"
+                },
+                {
+                    "teamA": "México",
+                    "goalA": "0️⃣",
+                    "teamB": "Polônia",
+                    "goalB": "0️⃣",
+                    "date": "22/11/2022 - 13:00"
+                }
+            ],
+            "groupD":[
+                {
+                    "teamA": "Dinamarca",
+                    "goalA": "0️⃣",
+                    "teamB": "Tuníse",
+                    "goalB": "0️⃣",
+                    "date": "22/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "França",
+                    "goalA": "4️⃣",
+                    "teamB": "Austrália",
+                    "goalB": "1️⃣",
+                    "date": "22/11/2022 - 16:00"
+                }
+            ],
+            "groupE":[
+                {
+                    "teamA": "Alemanha",
+                    "goalA": "1️⃣",
+                    "teamB": "Japão",
+                    "goalB": "2️⃣",
+                    "date": "23/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Espanha",
+                    "goalA": "7️⃣",
+                    "teamB": "Costa Rica",
+                    "goalB": "0️⃣",
+                    "date": "23/11/2022 - 13:00"
+                }
+            ],
+            "groupF":[
+                {
+                    "teamA": "Marrocos",
+                    "goalA": "0️⃣",
+                    "teamB": "Croácia",
+                    "goalB": "0️⃣",
+                    "date": "23/11/2022 - 7:00"
+                },
+                {
+                    "teamA": "Bélgica",
+                    "goalA": "1️⃣",
+                    "teamB": "Canadá",
+                    "goalB": "0️⃣",
+                    "date": "23/11/2022 - 16:00"
+                }
+            ],
+            "groupG":[
+                {
+                    "teamA": "Brasil",
+                    "goalA": "2️⃣",
+                    "teamB": "Sérvia",
+                    "goalB": "0️⃣",
+                    "date": "24/11/2022 - 16:00"
+                },
+                {
+                    "teamA": "Suiça",
+                    "goalA": "1️⃣",
+                    "teamB": "Camarões",
+                    "goalB": "0️⃣",
+                    "date": "24/11/2022 - 7:00"
+                }
+            ],
+            "groupH":[
+                {
+                    "teamA": "Uruguai",
+                    "goalA": "0️⃣",
+                    "teamB": "Coreia do Sul",
+                    "goalB": "0️⃣",
+                    "date": "24/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Portugal",
+                    "goalA": "3️⃣",
+                    "teamB": "Gana",
+                    "goalB": "2️⃣",
+                    "date": "24/11/2022 - 13:00"
+                }
+            ]
+        },
+        "roundTwo":{
+            "groupA":[
+                {
+                    "teamA": "Qatar",
+                    "goalA": "1️⃣",
+                    "teamB": "Senegal",
+                    "goalB": "3️⃣",
+                    "date": "25/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Equador",
+                    "goalA": "1️⃣",
+                    "teamB": "Holanda",
+                    "goalB": "1️⃣",
+                    "date": "25/11/2022 - 13:00"
+                }
+            ],
+            "groupB":[
+                {
+                    "teamA": "País de Gales",
+                    "goalA": "0️⃣",
+                    "teamB": "Irã",
+                    "goalB": "2️⃣",
+                    "date": "25/11/2022 - 07:00"
+                },
+                {
+                    "teamA": "Estados Unidos",
+                    "goalA": "0️⃣",
+                    "teamB": "Inglaterra",
+                    "goalB": "0️⃣",
+                    "date": "25/11/2022 - 16:00"
+                }
+            ],
+            "groupC":[
+                {
+                    "teamA": "Arábia Saudita",
+                    "goalA": "0️⃣",
+                    "teamB": "Polônia",
+                    "goalB": "2️⃣",
+                    "date": "26/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Argentina",
+                    "goalA": "2️⃣",
+                    "teamB": "México",
+                    "goalB": "0️⃣",
+                    "date": "26/11/2022 - 16:00"
+                }
+            ],
+            "groupD":[
+                {
+                    "teamA": "Austrália",
+                    "goalA": "1️⃣",
+                    "teamB": "Tuníse",
+                    "goalB": "0️⃣",
+                    "date": "26/11/2022 - 07:00"
+                },
+                {
+                    "teamA": "França",
+                    "goalA": "2️⃣",
+                    "teamB": "Dinamarca",
+                    "goalB": "1️⃣",
+                    "date": "26/11/2022 - 13:00"
+                }
+            ],
+            "groupE":[
+                {
+                    "teamA": "Costa Rica",
+                    "goalA": "1️⃣",
+                    "teamB": "Japão",
+                    "goalB": "0️⃣",
+                    "date": "27/11/2022 - 07:00"
+                },
+                {
+                    "teamA": "Espanha",
+                    "goalA": "1️⃣",
+                    "teamB": "Alemanha",
+                    "goalB": "1️⃣",
+                    "date": "27/11/2022 - 16:00"
+                }
+            ],
+            "groupF":[
+                {
+                    "teamA": "Marrocos",
+                    "goalA": "2️⃣",
+                    "teamB": "Bélgica",
+                    "goalB": "0️⃣",
+                    "date": "27/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Croácia",
+                    "goalA": "4️⃣",
+                    "teamB": "Canadá",
+                    "goalB": "1️⃣",
+                    "date": "27/11/2022 - 13:00"
+                }
+            ],
+            "groupG":[
+                {
+                    "teamA": "Brasil",
+                    "goalA": "1️⃣",
+                    "teamB": "Suiça",
+                    "goalB": "0️⃣",
+                    "date": "28/11/2022 - 13:00"
+                },
+                {
+                    "teamA": "Sérvia",
+                    "goalA": "3️⃣",
+                    "teamB": "Camarões",
+                    "goalB": "3️⃣",
+                    "date": "28/11/2022 - 7:00"
+                }
+            ],
+            "groupH":[
+                {
+                    "teamA": "Portugal",
+                    "goalA": "2️⃣",
+                    "teamB": "Uruguai",
+                    "goalB": "0️⃣",
+                    "date": "28/11/2022 - 10:00"
+                },
+                {
+                    "teamA": "Gana",
+                    "goalA": "3️⃣",
+                    "teamB": "Coreia do Sul",
+                    "goalB": "2️⃣",
+                    "date": "28/11/2022 - 16:00"
+                }
+            ]
+        },
+        "roundThree":{
+            "groupA":[
+                {
+                    "teamA": "Qatar",
+                    "goalA": "0️⃣",
+                    "teamB": "Holanda",
+                    "goalB": "0️⃣",
+                    "date": "29/11/2022 - 12:00"
+                },
+                {
+                    "teamA": "Senegal",
+                    "goalA": "0️⃣",
+                    "teamB": "Equador",
+                    "goalB": "0️⃣",
+                    "date": "29/11/2022 - 12:00"
+                }
+            ],
+            "groupB":[
+                {
+                    "teamA": "Estados Unidos",
+                    "goalA": "0️⃣",
+                    "teamB": "Irã",
+                    "goalB": "0️⃣",
+                    "date": "29/11/2022 - 16:00"
+                },
+                {
+                    "teamA": "Inglaterra",
+                    "goalA": "0️⃣",
+                    "teamB": "País de Gales",
+                    "goalB": "0️⃣",
+                    "date": "29/11/2022 - 16:00"
+                }
+            ],
+            "groupC":[
+                {
+                    "teamA": "Polônia",
+                    "goalA": "0️⃣",
+                    "teamB": "Argentina",
+                    "goalB": "0️⃣",
+                    "date": "30/11/2022 - 16:00"
+                },
+                {
+                    "teamA": "México",
+                    "goalA": "0️⃣",
+                    "teamB": "Arábia Saudita",
+                    "goalB": "0️⃣",
+                    "date": "30/11/2022 - 16:00"
+                }
+            ],
+            "groupD":[
+                {
+                    "teamA": "França",
+                    "goalA": "0️⃣",
+                    "teamB": "Tuníse",
+                    "goalB": "0️⃣",
+                    "date": "30/11/2022 - 12:00"
+                },
+                {
+                    "teamA": "Dinamarca",
+                    "goalA": "0️⃣",
+                    "teamB": "Austrália",
+                    "goalB": "0️⃣",
+                    "date": "30/11/2022 - 12:00"
+                }
+            ],
+            "groupE":[
+                {
+                    "teamA": "Espanha",
+                    "goalA": "0️⃣",
+                    "teamB": "Japão",
+                    "goalB": "0️⃣",
+                    "date": "01/12/2022 - 16:00"
+                },
+                {
+                    "teamA": "Alemanha",
+                    "goalA": "0️⃣",
+                    "teamB": "Costa Rica",
+                    "goalB": "0️⃣",
+                    "date": "01/12/2022 - 16:00"
+                }
+            ],
+            "groupF":[
+                {
+                    "teamA": "Bélgica",
+                    "goalA": "0️⃣",
+                    "teamB": "Croácia",
+                    "goalB": "0️⃣",
+                    "date": "01/12/2022 - 12:00"
+                },
+                {
+                    "teamA": "Marrocos",
+                    "goalA": "0️⃣",
+                    "teamB": "Canadá",
+                    "goalB": "0️⃣",
+                    "date": "01/12/2022 - 12:00"
+                }
+            ],
+            "groupG":[
+                {
+                    "teamA": "Brasil",
+                    "goalA": "0️⃣",
+                    "teamB": "Camarões",
+                    "goalB": "0️⃣",
+                    "date": "02/12/2022 - 16:00"
+                },
+                {
+                    "teamA": "Suiça",
+                    "goalA": "0️⃣",
+                    "teamB": "Sérvia",
+                    "goalB": "0️⃣",
+                    "date": "02/12/2022 - 16:00"
+                }
+            ],
+            "groupH":[
+                {
+                    "teamA": "Portugal",
+                    "goalA": "0️⃣",
+                    "teamB": "Coreia do Sul",
+                    "goalB": "0️⃣",
+                    "date": "02/12/2022 - 12:00"
+                },
+                {
+                    "teamA": "Uruguai",
+                    "goalA": "0️⃣",
+                    "teamB": "Gana",
+                    "goalB": "0️⃣",
+                    "date": "02/12/2022 - 12:00"
+                }
+            ]
+        }
+    }
+}
