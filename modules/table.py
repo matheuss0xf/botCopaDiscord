@@ -3,7 +3,7 @@ import json
 
 alinhamento = x = 12 / 2 - 12 / 2
 
-with open("D:/Faculdade/chatbot/modules/table.json", encoding='utf8') as file:
+with open("/modules/table.json", encoding='utf8') as file:
     data = json.load(file)
 
 def group(group: str) -> str:
@@ -38,6 +38,35 @@ def group(group: str) -> str:
 
     return group_rt + roundOne + roundTwo + roundThree
 
+def tableKeys(table: str) -> str:
+    list_table = ""
+    list_number = ["one", "two", "three", "four", "five", "six", "seven", "eight"]
+    name_table = "eight"
+    
+    if table == 'quartas':
+        name_table = 'four'
+        list_number = ["one", "two", "three", "four"]
+
+    if table == 'semifinal':
+        name_table = 'two'
+        list_number = ["one", "two"]
+    
+    if table == 'terceiro':
+        name_table = 'dispute'
+        list_number = ["one"]
+    
+    if table == 'final':
+        name_table = 'final'
+        list_number = ["one"]
+    
+    title = f"**`{table.upper()} DE FINAL`**"
+    for number in list_number:
+        list_table += f"""
+`{data["groupStage"][name_table][number]["teamA"]:<16} {data["groupStage"][name_table][number]["goalA"]:<5} ❌ {data["groupStage"][name_table][number]["goalB"]:>5} {data["groupStage"][name_table][number]["teamB"]:>16} `
+`Data: {data["groupStage"][name_table][number]["date"]:^42}`
+"""
+    
+    return title + list_table
 
 def mvp() -> str:
     mvp_rt = f'`Jogador: {data["mvp"]["jogador"]}\nGol\'s: {data["mvp"]["gols"]}`'
