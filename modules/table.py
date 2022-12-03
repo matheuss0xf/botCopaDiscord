@@ -68,16 +68,20 @@ def tableKeys(table: str) -> str:
     
     return title + list_table
 
+def win(win:str) -> str:
+    win = f'`Vencedor da copa: {data["win"]["team"]:^42}`'
+    return win
+
 def mvp() -> str:
     mvp_rt = f'`Jogador: {data["mvp"]["jogador"]}\nGol\'s: {data["mvp"]["gols"]}`'
     return mvp_rt
 
 
-def paisCopa() -> str:
+def countryCup() -> str:
     worldCup_rt = f'```País: {data["worldCup"]["name"]}\nSobre: {data["worldCup"]["about"]}\nIdioma: {data["worldCup"]["idiom"]}```'
     return worldCup_rt
 
 
 
 if __name__ == '__main__':
-    paisCopa()
+    countryCup()
