@@ -697,30 +697,30 @@
             },            
             "three":{
                 "teamA": "França",
-                "goalA": "0️⃣",
+                "goalA": "3️⃣",
                 "teamB": "Polônia",
-                "goalB": "0️⃣",
+                "goalB": "1️⃣",
                 "date": "04/12/2022 - 12:00"
             },
             "four":{
                 "teamA": "Inglaterra",
-                "goalA": "0️⃣",
+                "goalA": "3️⃣",
                 "teamB": "Senegal",
                 "goalB": "0️⃣",
                 "date": "04/12/2022 - 16:00"
             },
             "five":{
                 "teamA": "Japão",
-                "goalA": "0️⃣",
+                "goalA": "1️⃣",
                 "teamB": "Croácia",
-                "goalB": "0️⃣",
+                "goalB": "1️⃣",
                 "date": "05/12/2022 - 12:00"
             },
             "six":{
                 "teamA": "Brasil",
-                "goalA": "0️⃣",
+                "goalA": "4️⃣",
                 "teamB": "Coreia do Sul",
-                "goalB": "0️⃣",
+                "goalB": "1️⃣",
                 "date": "05/12/2022 - 16:00"
             },
             "seven":{
@@ -742,28 +742,28 @@
             "one":{
                 "teamA": "Holanda",
                 "goalA": "0️⃣",
-                "teamB": "Indefinido",
+                "teamB": "Argentina",
                 "goalB": "0️⃣",
                 "date": "09/12/2022 - 16:00"
             },
             "two":{
-                "teamA": "Indefinido",
+                "teamA": "Croácia",
                 "goalA": "0️⃣",
-                "teamB": "Indefinido",
+                "teamB": "Brasil",
                 "goalB": "0️⃣",
                 "date": "09/12/2022 - 12:00"
             },            
             "three":{
-                "teamA": "Indefinido",
+                "teamA": "Inglaterra",
                 "goalA": "0️⃣",
-                "teamB": "Indefinido",
+                "teamB": "França",
                 "goalB": "0️⃣",
                 "date": "10/12/2022 - 16:00"
             },
             "four":{
-                "teamA": "Indefinido",
+                "teamA": "Espanha",
                 "goalA": "0️⃣",
-                "teamB": "Indefinido",
+                "teamB": "Portugal",
                 "goalB": "0️⃣",
                 "date": "10/12/2022 - 12:00"
             }
